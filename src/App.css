@@ -1,0 +1,25 @@
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+h5 {
+font-family: "Lobster", cursive;
+}
+
+.card-img-overlay h5 {
+color: white;
+background-color: rgba(0, 0, 0, 0.5);
+}
+.row-content {
+  padding: 50px 0;
+  border-bottom: 1px ridge;
+  min-height: 200px;
+}
+
+.site-footer {
+  background-image: linear-gradient(white);
+  padding: 20px 0;
+}
+.navbar-light {
+  background-color: #F8F8F8;
+}
